@@ -28,12 +28,13 @@
     padding-left: 1em
 }
 
+
 #wireplumber,
 #battery,
 #backlight,
 #language,
 #network,
 #bluetooth,
-#tray {
-    padding-right: 1em 
-}
+#tray{
+    padding-right: 1em;
+    }
