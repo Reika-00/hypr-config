@@ -1,0 +1,58 @@
+* {
+  font-family: Maple Mono;
+  background: transparent;
+  color: #d8cab8;
+}
+
+#window {
+  color: #d8cab8;
+  border: 1px solid #E17993;
+  background-image: linear-gradient(to bottom, #141216 100%);
+  border-radius: 0;
+}
+
+#scroll {
+  border-top: 1px solid #E17993;
+}
+
+#inner-box {
+  padding-top: 12px;
+}
+
+#entry {
+  border: none;
+  color: #d8cab8;
+  padding: 6px;
+  margin: 0 12px 8px 12px;
+  border-radius: 0;
+}
+
+#entry:selected {
+  background: #27232b;
+  color: #d8cab8;
+  font-weight: bold;
+  outline: none;
+}
+
+#input {
+  background-color: #141216;
+  color: #d8cab8;
+  border: none;
+  border-bottom: 1px solid #E17993;
+  font-style: normal;
+  border-radius: 0;
+  padding: 12px;
+  margin: 8px;
+}
+
+#input:focus {
+  background-color: #27232b;
+  border-color: #E17993;
+  font-style: italic;
+}
+
+#img {
+  padding: 4px;
+  margin-right: 6px;
+}
+
